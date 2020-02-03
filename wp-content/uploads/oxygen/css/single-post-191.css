@@ -1,0 +1,20 @@
+#blogpostcontent > .ct-section-inner-wrap {padding-top: 34px;padding-bottom: 49px;align-items: center;}
+#blogpostcontent {text-align: left;}
+#section-20-191 > .ct-section-inner-wrap {padding-top: 19px;align-items: center;}
+#section-20-191 {text-align: left;}
+#headline-25-191 {font-size: 26px;font-family: Inherit;text-align: center;margin-top: 0px;line-height: 1.3;margin-bottom: 6px;color: #af9e75;}
+#headline-2-191 {font-size: 52px;font-family: Inherit;text-align: center;margin-top: 0px;line-height: 1.15;max-width: 700px;color: #333;}
+@media (max-width:767px) {#headline-25-191 {font-size: 19px;}}
+@media (max-width:767px) {#headline-2-191 {font-size: 38px;}}
+#text_block-13-191 {font-size: 19px;max-width: 600px;background-color: #f4ebd0;padding-left: 20px;padding-right: 20px;margin-top: 40px;color: #333;}
+#_comments-22-191 {max-width: 600px;padding-top: 33px;}
+.oxy-comments li.comment {padding: 40px;background-color: white;border-radius: 5px;box-shadow: rgba(0,0,0,.04) 0px 0px 10px 0px;border: 1px solid #eee;}
+.oxy-comments .comment-meta .comment-metadata a {color: rgba(0,0,0,.5);}
+.oxy-comments .comment-meta .comment-author {border-bottom: 1px solid #eee;padding-bottom: 20px;margin-bottom: 20px;}
+.oxy-comments li.comment.even {background-color: #fafafa;}
+.oxy-comments ol.comments-list > li.comment {margin-bottom: 40px;}
+.comment-reply-link {border: 1px solid;padding: .75em 1.5em;border-radius: 2px;line-height: 1;}
+.oxy-comments .comment-meta .comment-author .avatar {border-radius: 50%;}
+#_comment_form-21-191 {font-family: "Playfair Display";text-align: center;max-width: 600px;}
+#_comment_form-21-191 input, #_comment_form-21-191 textarea {color: #333;}
+#_comment_form-21-191 #submit {background-color: #333;}
