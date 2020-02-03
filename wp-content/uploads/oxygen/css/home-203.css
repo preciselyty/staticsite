@@ -1,0 +1,22 @@
+#_posts_grid-3-203 {background-color: #f4ebd0;}
+#_posts_grid-3-203 .oxy-posts {display: flex;flex-direction: column;}
+#_posts_grid-3-203 .oxy-post {margin-bottom: 6em;display: flex;flex-direction: row;align-items: center;}
+#_posts_grid-3-203 .oxy-post-wrap {width: 100%;display: flex;flex-direction: column;text-align: left;align-items: flex-start;}
+#_posts_grid-3-203 .oxy-post-image {position: relative;background-color: grey;background-image: repeating-linear-gradient(45deg,#eee,#eee 10px,#ddd 10px,#ddd 20px);width: 40%;flex-shrink: 0;flex-grow: 0;margin-right: 2em;}
+#_posts_grid-3-203 .oxy-post-image-fixed-ratio {padding-bottom: 100%;background-size: cover;background-position: center center;margin-top: -10px;margin-left: -10px;}
+#_posts_grid-3-203 .oxy-post-image-date-overlay {position: absolute;top: 1em;right: 1em;font-size: .7em;color: white;background-color: rgba(0,0,0,.5);padding: .7em 1em;font-weight: bold;-webkit-font-smoothing: antialiased;}
+#_posts_grid-3-203 .oxy-post-title {font-size: 2em;line-height: 1.2em;}
+#_posts_grid-3-203 .oxy-post-meta {margin-top: .5em;font-size: .8em;display: flex;flex-direction: row;}
+#_posts_grid-3-203 .oxy-post-meta-item::after {content: "·";margin-right: .5em;margin-left: .5em;}
+#_posts_grid-3-203 .oxy-post-meta-item:last-child::after {content: "";display: none;}
+#_posts_grid-3-203 .oxy-post-content {margin-top: 1em;margin-bottom: 1em;}
+#_posts_grid-3-203 .oxy-post-content p {margin: 0;}
+@media (max-width:991px) {#_posts_grid-3-203 .oxy-post {flex-direction: column;}
+	#_posts_grid-3-203 .oxy-post-image {width: 100%;margin-bottom: 1em;margin-right: 0;}
+	#_posts_grid-3-203 .oxy-post-image-fixed-ratio {padding-bottom: 56%;}}
+#_posts_grid-3-203 .oxy-post-title {color: #0268ce;}
+#_posts_grid-3-203 .oxy-read-more {font-size: .8em;color: #fff;background-color: #3651ed;text-decoration: none;padding: .75em 1.5em;line-height: 1;border-radius: 3px;display: inline-block;}
+#_posts_grid-3-203 .oxy-read-more:hover {background-color: #0078ce;text-decoration: none;}
+#_posts_grid-3-203 .oxy-easy-posts-pages {text-align: center;}
+@media (max-width:) {#_posts_grid-3-203 .oxy-post {width: 50% !important;}}
+@media (max-width:) {#_posts_grid-3-203 .oxy-post {width: 100% !important;}}
